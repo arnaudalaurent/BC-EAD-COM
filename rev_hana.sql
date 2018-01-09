@@ -1,0 +1,1 @@
+create column table T1 (col1 integer);
